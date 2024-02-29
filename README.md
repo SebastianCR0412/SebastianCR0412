@@ -1,5 +1,5 @@
 ### Hi there 👋
-Soy un estudiante de tercer semestre y me gusta la salchipapa
+**Soy un estudiante de tercer semestre y me gusta la salchipapa**
 <!--
 **SebastianCR0412/SebastianCR0412** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
